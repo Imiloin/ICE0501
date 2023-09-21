@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "ctype.h": "c",
+        "hw_types.h": "c",
+        "compare": "c"
+    }
+}
